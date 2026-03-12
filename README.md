@@ -1,4 +1,4 @@
-# Sugar Activity Developer Kit 🍬
+# Sugar Activity Developer Kit
 
 > Run, test, and fix Sugar Labs math & educational activities directly in VS Code — no Sugar desktop, no 2GB ISO, no logging out.
 
