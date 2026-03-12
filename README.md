@@ -161,8 +161,9 @@ They also expect a D-Bus mainloop and a `handle` object with an `activity_id`. `
 
 **Kushal Kant Bind** — [github.com/Bindkushal](https://github.com/Bindkushal)
 
-B.Tech — Mobile & Distributed Computing, Chandigarh University  
-ML Researcher | GSoC 2026 Applicant @ Sugar Labs
+Kushal Kant Bind — github.com/Bindkushal
+BSc (Hons) — Computer Science, Statistics & Mathematics, Chandigarh University
+ML Researcher
 
 ---
 

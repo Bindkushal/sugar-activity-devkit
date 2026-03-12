@@ -28,7 +28,7 @@ def setup_env(bundle_path):
     os.makedirs(os.path.join(activity_root, 'data'), exist_ok=True)
     os.makedirs(os.path.join(activity_root, 'tmp'), exist_ok=True)
 
-    # Read bundle metadata from activity.info
+    #  This Reads bundle metadata from activity.info
     bundle_id = 'org.laptop.Activity'
     bundle_name = 'Activity'
     bundle_version = '1'
