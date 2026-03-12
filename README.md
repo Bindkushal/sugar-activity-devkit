@@ -84,7 +84,7 @@ python3 sugar_launch.py ~/Activities/Physics.activity
 git clone https://github.com/sugarlabs/activity-abacus.git ~/Activities/Abacus.activity
 python3 sugar_launch.py ~/Activities/Abacus.activity
 ```
-<img width="1070" height="554" alt="image" src="https://github.com/user-attachments/assets/ce3a309e-efaa-4850-ae9f-ee7996e2871a" />
+
 
 ### Memorize
 ```bash
@@ -149,6 +149,14 @@ They also expect a D-Bus mainloop and a `handle` object with an `activity_id`. `
 
 ---
 
+## Screenshots
+<img width="1264" height="584" alt="image" src="https://github.com/user-attachments/assets/f2ce2eb8-927d-45e7-87c0-946f88d550e7" />
+
+<img width="1368" height="768" alt="image" src="https://github.com/user-attachments/assets/32af29da-7639-4b17-af42-779767b45908" />
+
+
+
+
 ## Author
 
 **Kushal Kant Bind** — [github.com/Bindkushal](https://github.com/Bindkushal)
@@ -157,6 +165,7 @@ B.Tech — Mobile & Distributed Computing, Chandigarh University
 ML Researcher | GSoC 2026 Applicant @ Sugar Labs
 
 ---
+
 
 ## License
 
