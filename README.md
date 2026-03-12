@@ -84,6 +84,7 @@ python3 sugar_launch.py ~/Activities/Physics.activity
 git clone https://github.com/sugarlabs/activity-abacus.git ~/Activities/Abacus.activity
 python3 sugar_launch.py ~/Activities/Abacus.activity
 ```
+<img width="1070" height="554" alt="image" src="https://github.com/user-attachments/assets/ce3a309e-efaa-4850-ae9f-ee7996e2871a" />
 
 ### Memorize
 ```bash
