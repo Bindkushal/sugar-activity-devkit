@@ -124,14 +124,6 @@ This tool is built for contributors. Once an activity is running:
 
 No rebuild step. No logout. Just save and re-run.
 
-### Finding issues to fix
-
-- [calculate-activity issues](https://github.com/sugarlabs/calculate-activity/issues)
-- [Broken-Calculator issues](https://github.com/sugarlabs/Broken-Calculator/issues)
-- [physics issues](https://github.com/sugarlabs/physics/issues)
-- [All Sugar Labs repos](https://github.com/orgs/sugarlabs/repositories)
-
----
 
 ## How It Works
 
